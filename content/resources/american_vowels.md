@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Supporting audio file for the second lecture.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/e3c6c24f0f018593c46867e9e6120015_american_vowels.wav
+file: /media/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/e3c6c24f0f018593c46867e9e6120015_american_vowels.wav
 file_type: audio/x-wav
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Other
 title: American Vowels
 uid: e3c6c24f-0f01-8593-c468-67e9e6120015
