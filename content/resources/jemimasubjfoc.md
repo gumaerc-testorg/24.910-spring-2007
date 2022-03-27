@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fcd2b437-0aae-a3dd-c2ac-02d87da57634
 resourcetype: Other
 title: jemimasubjfoc
 uid: 7a192b51-886b-8a0e-94e0-617820457107

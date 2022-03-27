@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fcd2b437-0aae-a3dd-c2ac-02d87da57634
 resourcetype: Other
 title: magic2subjfoc
 uid: cf1c889e-daee-dd2d-07c1-922198a5e9d4

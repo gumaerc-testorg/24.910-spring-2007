@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fcd2b437-0aae-a3dd-c2ac-02d87da57634
 resourcetype: Other
 title: gun
 uid: 70c9ea01-d2fb-3ff7-9190-6cf03e397d9a

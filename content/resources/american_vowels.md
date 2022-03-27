@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9fdb3bbe-dcff-fc9d-4e26-f2d82f6e0993
 resourcetype: Other
 title: American Vowels
 uid: e3c6c24f-0f01-8593-c468-67e9e6120015

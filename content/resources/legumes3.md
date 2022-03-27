@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fcd2b437-0aae-a3dd-c2ac-02d87da57634
 resourcetype: Document
 title: legumes3
 uid: 7e6285d9-d7c7-f01b-b7c5-a2ac1cfcb043

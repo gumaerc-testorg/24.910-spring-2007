@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fcd2b437-0aae-a3dd-c2ac-02d87da57634
 resourcetype: Other
 title: heavyrain
 uid: f2d6290c-fe06-29b0-ea0d-c87f8ea8b0c4

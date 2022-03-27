@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 9fdb3bbe-dcff-fc9d-4e26-f2d82f6e0993
 resourcetype: Document
 title: Effects of the Lexicon and Context on Speech Perception
 uid: a329c039-693b-a03f-4dff-75f19c6636d2

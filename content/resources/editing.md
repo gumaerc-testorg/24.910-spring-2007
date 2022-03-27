@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: fcd2b437-0aae-a3dd-c2ac-02d87da57634
 resourcetype: Document
 title: Waveform Editing and Speech Perception
 uid: b081a8dd-41c6-6ef9-f84a-62b2007d6af0

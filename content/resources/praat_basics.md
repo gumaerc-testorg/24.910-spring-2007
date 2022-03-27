@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 11c08384-babd-1f39-f1ed-211dd385550f
 resourcetype: Document
 title: Praat Basics
 uid: aeaafb71-848a-83c3-d0fe-a70b39f9e929
