@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus provides the course description and information about prerequisites,
+  essential background, requirements, grading, textbook, recommended citation, and
+  the schedule of lecture topics and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -151,7 +154,7 @@ Textbook
 
 Johnson, Keith. _Acoustic and Auditory Phonetics_. 2nd ed. Malden, MA: Blackwell, 2003. ISBN: 9781405101233.
 
-Please see [readings]({{< baseurl >}}/pages/readings) for additional texts.
+Please see {{% resource_link 0c60b88d-f17e-d6ba-04d3-4948e29bab1f "readings" %}} for additional texts.
 
 Calendar
 --------

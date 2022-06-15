@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplemental audio file for an assignment on laboratory phonology.
-file: /media/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/4fcf4d9b82a3d67b68c61dfbf367a881_thought.wav
+file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/4fcf4d9b82a3d67b68c61dfbf367a881_thought.wav
 file_type: audio/x-wav
 learning_resource_types:
 - Assignments
@@ -13,3 +13,5 @@ resourcetype: Other
 title: thought
 uid: 4fcf4d9b-82a3-d67b-68c6-1dfbf367a881
 ---
+Supplemental audio file for an assignment on laboratory phonology.
+

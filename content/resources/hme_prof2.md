@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Screenshot of the MIT OpenCourseWare homepage.
-file: /media/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/4ea7c561847a68578348aa38fa4eda96_hme_prof2.jpg
+file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/4ea7c561847a68578348aa38fa4eda96_hme_prof2.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -13,3 +13,5 @@ resourcetype: Image
 title: OCW Home
 uid: 4ea7c561-847a-6857-8348-aa38fa4eda96
 ---
+Screenshot of the MIT OpenCourseWare homepage.
+
