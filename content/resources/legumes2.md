@@ -5,6 +5,7 @@ file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-20
 file_type: audio/x-wav
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: legumes2
 uid: 7cc5514d-d24d-8c58-c555-9878cf92234b
 ---
 Supplemental audio file for an assignment on laboratory phonology.
-

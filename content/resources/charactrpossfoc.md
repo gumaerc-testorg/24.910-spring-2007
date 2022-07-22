@@ -5,6 +5,7 @@ file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-20
 file_type: audio/x-wav
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: charactrpossfoc
 uid: 799e5c15-47a2-c6a0-a057-71ca6c1e5ce3
 ---
 Supplemental audio file for an assignment on laboratory phonology.
-

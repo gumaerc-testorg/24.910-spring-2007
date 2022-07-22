@@ -5,6 +5,7 @@ file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Phonetics and Phonology of accent Variation
 uid: 0070571e-3f90-150f-0605-178247b62ed2
 ---
 Lecture notes on phonetics and phonology of accent variation.
-

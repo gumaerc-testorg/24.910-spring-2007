@@ -6,6 +6,7 @@ file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Licensing by Cue
 uid: e0847d3c-8acc-d855-a03a-b148f93256d4
 ---
 Lecture notes on licensing by cue, perceptual cues, and the distribution of phonological contrasts.
-

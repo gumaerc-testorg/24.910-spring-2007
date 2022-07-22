@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: Waveform and analysis of four Chinese words
 uid: 35775e38-e06d-474c-da06-12bfa4e871e0
 ---
 Graph of waveform and analysis of four Chinese words.
-

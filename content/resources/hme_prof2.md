@@ -8,10 +8,10 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: OCW Home
 uid: 4ea7c561-847a-6857-8348-aa38fa4eda96
 ---
 Screenshot of the MIT OpenCourseWare homepage.
-

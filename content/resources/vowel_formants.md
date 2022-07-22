@@ -6,6 +6,7 @@ file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Measuring Vowel Formants
 uid: 633afa3e-5a85-2623-0196-f596dc8896f0
 ---
 Instructions for an assignment to measure the formants of the stressed vowel phonemes ofyour native language.
-

@@ -6,6 +6,7 @@ file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Effects of the Lexicon and Context on Speech Perception
 uid: a329c039-693b-a03f-4dff-75f19c6636d2
 ---
 Lecture notes about the effects of the lexicon and context on speech perception.
-

@@ -6,6 +6,7 @@ file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-20
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: Basic Statistics
 uid: 1896231e-5fcf-0e8f-04c5-34e7805347f0
 ---
 Lecture notes on basic statistics, the lexicon and context in speech perception, and phonology in speech perception.
-
