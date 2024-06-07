@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplemental audio file for an assignment on laboratory phonology.
 file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/799e5c1547a2c6a0a05771ca6c1e5ce3_charactrpossfoc.wav
+file_size: 169366
 file_type: audio/x-wav
 learning_resource_types:
 - Assignments
