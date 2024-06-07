@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplemental audio file for an assignment on laboratory phonology.
 file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/cf1c889edaeedd2d07c1922198a5e9d4_magic2subjfoc.wav
+file_size: 171964
 file_type: audio/x-wav
 learning_resource_types:
 - Assignments

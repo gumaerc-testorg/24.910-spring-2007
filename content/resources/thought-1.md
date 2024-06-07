@@ -2,6 +2,7 @@
 content_type: resource
 description: Supplement to an assignment on laboratory phonology.
 file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/625a290923cc8153b5ccddfc85d94677_thought.pdf
+file_size: 18052
 file_type: application/pdf
 learning_resource_types:
 - Assignments
