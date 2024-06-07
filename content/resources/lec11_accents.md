@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on phonetics and phonology of accent variation.
 file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/0070571e3f90150f0605178247b62ed2_lec11_accents.pdf
+file_size: 1130366
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

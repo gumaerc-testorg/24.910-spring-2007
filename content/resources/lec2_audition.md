@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes on basic audition and analog-to-digital conversion of speech
   signals.
 file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/9f543d96e9e296adbe2fe56ded00836c_lec2_audition.pdf
+file_size: 876628
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

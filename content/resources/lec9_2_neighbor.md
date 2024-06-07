@@ -3,6 +3,7 @@ content_type: resource
 description: Lecture notes about the effects of the lexicon and context on speech
   perception.
 file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/a329c039693ba03f4dff75f19c6636d2_lec9_2_neighbor.pdf
+file_size: 354446
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

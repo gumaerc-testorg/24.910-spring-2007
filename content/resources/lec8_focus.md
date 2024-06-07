@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on the meaning of intonation.
 file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/72cd53b39c3fe350b962fe3d098ef930_lec8_focus.pdf
+file_size: 1901001
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
