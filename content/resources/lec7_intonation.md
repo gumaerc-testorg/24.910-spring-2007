@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on intonation.
-file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/5dc30230f95b6232ec4e2e2a1527ce7b_lec7_intonation.pdf
+file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/5dc30230f95b6232ec4e2e2a1527ce7b_lec7_intonation.pdf
 file_size: 440936
 file_type: application/pdf
 learning_resource_types:

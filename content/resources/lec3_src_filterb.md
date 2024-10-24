@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Lecture notes on the source-filter model of speech production.
-file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/be0a33b0d6f02be196cbf2c5d8cbd274_lec3_src_filterb.pdf
+file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/be0a33b0d6f02be196cbf2c5d8cbd274_lec3_src_filterb.pdf
 file_size: 1327511
 file_type: application/pdf
 learning_resource_types:
