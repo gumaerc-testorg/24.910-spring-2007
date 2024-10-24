@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for an assignment on aspiration contrasts in Mandarin Chinese.
-file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/9ab8411eb08ab8e31653de2ab21e5caa_mandarin.pdf
+file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/9ab8411eb08ab8e31653de2ab21e5caa_mandarin.pdf
 file_size: 84028
 file_type: application/pdf
 learning_resource_types:
