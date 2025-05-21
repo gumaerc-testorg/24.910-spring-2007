@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting audio file for the second lecture.
-file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/8ea0693f23883cd36014ed8f3ccbcb64_consonants1.aiff
+file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/8ea0693f23883cd36014ed8f3ccbcb64_consonants1.aiff
 file_size: 1025270
 file_type: audio/x-aiff
 learning_resource_types:
