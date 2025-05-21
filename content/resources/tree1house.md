@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplement to an assignment on laboratory phonology.
-file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/705f6ea2e0b8318fa6ef57fb97de1686_tree1house.pdf
+file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/705f6ea2e0b8318fa6ef57fb97de1686_tree1house.pdf
 file_size: 21808
 file_type: application/pdf
 learning_resource_types:

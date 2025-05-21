@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Instructions for an acoustics assignment.
-file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/396f4406924f871688aa158d7d245696_acoustics.pdf
+file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/396f4406924f871688aa158d7d245696_acoustics.pdf
 file_size: 58399
 file_type: application/pdf
 learning_resource_types:

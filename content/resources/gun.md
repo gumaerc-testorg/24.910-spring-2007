@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplemental audio file for an assignment on laboratory phonology.
-file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/70c9ea01d2fb3ff791906cf03e397d9a_gun.wav
+file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/70c9ea01d2fb3ff791906cf03e397d9a_gun.wav
 file_size: 145122
 file_type: audio/x-wav
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Graph of waveform and analysis of four Chinese words.
-file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/35775e38e06d474cda0612bfa4e871e0_chp_tones.jpg
+file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/35775e38e06d474cda0612bfa4e871e0_chp_tones.jpg
 file_size: 40367
 file_type: image/jpeg
 image_metadata:
