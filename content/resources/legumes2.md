@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplemental audio file for an assignment on laboratory phonology.
-file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/7cc5514dd24d8c58c5559878cf92234b_legumes2.wav
+file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/7cc5514dd24d8c58c5559878cf92234b_legumes2.wav
 file_size: 63536
 file_type: audio/x-wav
 learning_resource_types:

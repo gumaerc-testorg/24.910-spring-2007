@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supporting audio file for the second lecture.
-file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/e3c6c24f0f018593c46867e9e6120015_american_vowels.wav
+file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/e3c6c24f0f018593c46867e9e6120015_american_vowels.wav
 file_size: 1143980
 file_type: audio/x-wav
 learning_resource_types:
