@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "Lecture notes on Lindblom\u2019s theory of adaptive dispersion."
-file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/76ecc75bb24582c312113d2a17460a57_lec4_dispersion.pdf
+file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/76ecc75bb24582c312113d2a17460a57_lec4_dispersion.pdf
 file_size: 462171
 file_type: application/pdf
 learning_resource_types:

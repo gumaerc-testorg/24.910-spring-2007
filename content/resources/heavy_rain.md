@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplement to an assignment on laboratory phonology.
-file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/78ec0a5e1858efc6242345d28b31cb49_heavy_rain.pdf
+file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/78ec0a5e1858efc6242345d28b31cb49_heavy_rain.pdf
 file_size: 18708
 file_type: application/pdf
 learning_resource_types:

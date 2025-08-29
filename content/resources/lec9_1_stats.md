@@ -2,7 +2,7 @@
 content_type: resource
 description: Lecture notes on basic statistics, the lexicon and context in speech
   perception, and phonology in speech perception.
-file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/1896231e5fcf0e8f04c534e7805347f0_lec9_1_stats.pdf
+file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/1896231e5fcf0e8f04c534e7805347f0_lec9_1_stats.pdf
 file_size: 655883
 file_type: application/pdf
 learning_resource_types:
