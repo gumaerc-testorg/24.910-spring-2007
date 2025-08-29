@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Supplemental audio file for an assignment on laboratory phonology.
-file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/258e67e7a6b752a1a9c542d7e6962785_mole1.wav
+file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/258e67e7a6b752a1a9c542d7e6962785_mole1.wav
 file_size: 23000
 file_type: audio/x-wav
 learning_resource_types:

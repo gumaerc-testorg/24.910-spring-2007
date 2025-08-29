@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Response sheet for an assignment on perception.
-file: /courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/f3e158e3a91d1644a9f998d17600f856_response_sheet.pdf
+file: /ol-ocw-studio-app/courses/24-910-topics-in-linguistic-theory-laboratory-phonology-spring-2007/f3e158e3a91d1644a9f998d17600f856_response_sheet.pdf
 file_size: 24001
 file_type: application/pdf
 learning_resource_types:
