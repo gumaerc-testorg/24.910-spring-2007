@@ -8,6 +8,6 @@ title: Study Materials
 uid: 11c08384-babd-1f39-f1ed-211dd385550f
 ---
 
-[Praat: Doing Phonetics by Computer](http://www.fon.hum.uva.nl/praat/) (Acoustic analysis software)
+{{% resource_link "e3328ff9-acc0-4ada-a6e5-775344ff5b66" "Praat: Doing Phonetics by Computer" %}} (Acoustic analysis software)
 
 Praat Basics ({{% resource_link aeaafb71-848a-83c3-d0fe-a70b39f9e929 "PDF" %}})
